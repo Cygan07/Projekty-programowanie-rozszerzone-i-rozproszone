@@ -1,0 +1,1 @@
+Do standardowej implementacji dodałem możliwość odczytywania adresu MAC urządzenia które połączy się z serwerem. 
